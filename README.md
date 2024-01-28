@@ -1,5 +1,8 @@
 # Spectrogram Visualizer
 
+https://github.com/surenpoghosian/live-spectogram/assets/56313895/974ee594-7e60-4a7f-8e87-2ec97f8ba733
+
+
 # Overview
 
 The Spectrogram Visualizer is an interactive web application built using React and the Web Audio API. It provides a real-time visualization of audio frequencies captured from a user's microphone, displaying a dynamic spectrogram on the screen. This project is designed to offer an engaging and educational experience for users interested in audio processing and visualization.
