@@ -1,5 +1,7 @@
 # Spectrogram Visualizer
 
+<img width="1512" alt="Screenshot 2024-01-28 at 22 57 29" src="https://github.com/surenpoghosian/live-spectogram/assets/56313895/7d142843-8dfd-400e-9bf4-51c2348bae53">
+
 https://github.com/surenpoghosian/live-spectogram/assets/56313895/974ee594-7e60-4a7f-8e87-2ec97f8ba733
 
 
